@@ -2,42 +2,88 @@
 
 > A practical, copy-paste prompt engineering guide for anyone who uses AI: from beginners to power users.
 
-This repository is a growing collection of clear explanations, proven frameworks and reusable prompts that help you get better results from AI tools like ChatGPT. The endgoal is simply that you as a user can copy and paste the right prompt for the right context.
+This repository is a curated collection of effective prompts, reusable frameworks and minimal explanation to help you get better results from AI tools like ChatGPT.
 
-No brick walls or frustrating answers. Just prompts that actually work.
-
----
-
-## Who this is for
-
-- Beginners who want reliable results
-- Professionals using AI at work
-- Developers, writers, students, founders
-- Anyone tired of vague or low-quality AI answers
+No brick walls. Just prompts that actually work.
 
 ---
 
-## What you'll find here
+## Why this guide exists
 
--  **Fundamentals** – why prompts fail and how to fix them  
--  **Frameworks** – reusable prompt structures  
--  **Everyday prompts** – writing, learning, thinking  
--  **Work prompts** – business, coding, marketing  
--  **Advanced techniques** – system prompts, chains  
--  **Templates** – copy-paste prompts that just work  
+Most prompt collections are just long lists.
 
----
+This guide is different:
+- Prompts are **organized by outcome**, not just roles
+- You’ll learn **how to think**, not just what to copy
+- Prompts are meant to be **adapted**, not memorized
 
-## How to use this guide
-
-1. Start with `/01_fundamentals` if you're new  
-2. Jump to `/03_everyday-prompts` for immediate value  
-3. Use `/06_templates` when you just need something that works  
-4. Modify prompts to fit your context. Prompts are starting points, not magic spells
+If you’ve ever thought *“I know AI can do better than this”*, this is for you.
 
 ---
 
-## Example prompt
+## How to use prompts in this guide
+
+Prompts are not magic spells.
+
+For best results:
+- Replace placeholders with **real context**
+- Add constraints (tone, length, format)
+- Iterate instead of restarting from scratch
+- Treat prompts as **starting points**, not final answers
+
+Small changes = big improvements.
+
+---
+
+## Prompt categories
+
+### 🧠 Fundamentals
+Learn why prompts fail, how they work, and how to think about them.
+
+📁 `/01_fundamentals`
+
+---
+
+### 🧩 Prompt Frameworks
+Reusable structures you can adapt to almost any task.
+
+📁 `/02_frameworks`
+
+---
+
+### ✍️ Everyday Prompts
+For writing, learning, thinking, and productivity.
+
+📁 `/03_everyday-prompts`
+
+---
+
+### 💼 Work Prompts
+For business, coding, marketing, and professional use.
+
+📁 `/04_work-prompts`
+
+---
+
+### 🧪 Advanced Techniques
+System prompts, prompt chains, and debugging techniques.
+
+📁 `/05_advanced`
+
+---
+
+### 📋 Templates
+Copy-paste prompts that work across many use cases.
+
+📁 `/06_templates`
+
+---
+
+## Example prompts
+
+### 🧠 Universal Problem Solver
+
+**Use when:** You’re stuck and don’t know how to proceed.
 
 ```text
 You are a careful and structured thinker.
