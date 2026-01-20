@@ -2,9 +2,9 @@
 
 > A practical, copy-paste prompt engineering guide for anyone who uses AI: from beginners to power users.
 
-This repository is a growing collection of **clear explanations, proven frameworks, and reusable prompts** that help you get better results from AI tools like ChatGPT.
+This repository is a growing collection of clear explanations, proven frameworks and reusable prompts that help you get better results from AI tools like ChatGPT. The endgoal is simply that you as a user can copy and paste the right prompt for the right context.
 
-No brick walls. No hype. Just prompts that actually work.
+No brick walls or frustrating answers. Just prompts that actually work.
 
 ---
 
@@ -19,12 +19,12 @@ No brick walls. No hype. Just prompts that actually work.
 
 ## What you'll find here
 
-- 🧠 **Fundamentals** – why prompts fail and how to fix them  
-- 🧩 **Frameworks** – reusable prompt structures  
-- ✍️ **Everyday prompts** – writing, learning, thinking  
-- 💼 **Work prompts** – business, coding, marketing  
-- 🧪 **Advanced techniques** – system prompts, chains  
-- 📋 **Templates** – copy-paste prompts that just work  
+-  **Fundamentals** – why prompts fail and how to fix them  
+-  **Frameworks** – reusable prompt structures  
+-  **Everyday prompts** – writing, learning, thinking  
+-  **Work prompts** – business, coding, marketing  
+-  **Advanced techniques** – system prompts, chains  
+-  **Templates** – copy-paste prompts that just work  
 
 ---
 
@@ -33,7 +33,7 @@ No brick walls. No hype. Just prompts that actually work.
 1. Start with `/01_fundamentals` if you're new  
 2. Jump to `/03_everyday-prompts` for immediate value  
 3. Use `/06_templates` when you just need something that works  
-4. Modify prompts to fit your context — prompts are starting points, not magic spells
+4. Modify prompts to fit your context. Prompts are starting points, not magic spells
 
 ---
 
